@@ -21,7 +21,7 @@
     <Library Include="libmysql.lib" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="second_main.c">
+    <ClCompile Include="mssql_main.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
